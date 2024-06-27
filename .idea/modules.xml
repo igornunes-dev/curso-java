@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/anatomia-classes/anatomia-classes.iml" filepath="$PROJECT_DIR$/anatomia-classes/anatomia-classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/dio-aulas.iml" filepath="$PROJECT_DIR$/dio-aulas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/escopo/escopo.iml" filepath="$PROJECT_DIR$/escopo/escopo.iml" />
       <module fileurl="file://$PROJECT_DIR$/metodos/metodos.iml" filepath="$PROJECT_DIR$/metodos/metodos.iml" />
       <module fileurl="file://$PROJECT_DIR$/operadores/operadores.iml" filepath="$PROJECT_DIR$/operadores/operadores.iml" />
       <module fileurl="file://$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" />
