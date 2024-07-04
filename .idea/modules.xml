@@ -3,10 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ContaBanco/ContaBanco.iml" filepath="$PROJECT_DIR$/ContaBanco/ContaBanco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafio-controle-fluxo/DesafioControleFluxo.iml" filepath="$PROJECT_DIR$/desafio-controle-fluxo/DesafioControleFluxo.iml" />
       <module fileurl="file://$PROJECT_DIR$/anatomia-classes/anatomia-classes.iml" filepath="$PROJECT_DIR$/anatomia-classes/anatomia-classes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/controle-candidatos/controle-candidatos.iml" filepath="$PROJECT_DIR$/controle-candidatos/controle-candidatos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/debbuging/debbuging.iml" filepath="$PROJECT_DIR$/debbuging/debbuging.iml" />
       <module fileurl="file://$PROJECT_DIR$/dio-aulas.iml" filepath="$PROJECT_DIR$/dio-aulas.iml" />
       <module fileurl="file://$PROJECT_DIR$/escopo/escopo.iml" filepath="$PROJECT_DIR$/escopo/escopo.iml" />
       <module fileurl="file://$PROJECT_DIR$/controleFluxo/estruturaCondicionais.iml" filepath="$PROJECT_DIR$/controleFluxo/estruturaCondicionais.iml" />
+      <module fileurl="file://$PROJECT_DIR$/estruturaExcepcionais/estruturaExcepcionais.iml" filepath="$PROJECT_DIR$/estruturaExcepcionais/estruturaExcepcionais.iml" />
       <module fileurl="file://$PROJECT_DIR$/estruturaRepeticoes/estruturaRepeticoes.iml" filepath="$PROJECT_DIR$/estruturaRepeticoes/estruturaRepeticoes.iml" />
       <module fileurl="file://$PROJECT_DIR$/metodos/metodos.iml" filepath="$PROJECT_DIR$/metodos/metodos.iml" />
       <module fileurl="file://$PROJECT_DIR$/operadores/operadores.iml" filepath="$PROJECT_DIR$/operadores/operadores.iml" />
