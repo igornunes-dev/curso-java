@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ContaBanco/ContaBanco.iml" filepath="$PROJECT_DIR$/ContaBanco/ContaBanco.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafio-controle-fluxo/DesafioControleFluxo.iml" filepath="$PROJECT_DIR$/desafio-controle-fluxo/DesafioControleFluxo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/POO/POO.iml" filepath="$PROJECT_DIR$/POO/POO.iml" />
       <module fileurl="file://$PROJECT_DIR$/anatomia-classes/anatomia-classes.iml" filepath="$PROJECT_DIR$/anatomia-classes/anatomia-classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/controle-candidatos/controle-candidatos.iml" filepath="$PROJECT_DIR$/controle-candidatos/controle-candidatos.iml" />
       <module fileurl="file://$PROJECT_DIR$/debbuging/debbuging.iml" filepath="$PROJECT_DIR$/debbuging/debbuging.iml" />
