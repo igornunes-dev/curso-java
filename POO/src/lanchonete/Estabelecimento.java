@@ -43,10 +43,10 @@ public class Estabelecimento {
 
         //não deveria, mas o estabelecimento
         //ainda não definiu normas de atendimento
-        cliente.pegarPedidoBalcao();
+//        cliente.pegarPedidoBalcao();
 
         //esta ação é muito sigilosa, qua tal ser privada ?
-        cliente.consultarSaldoAplicativo();
+//        cliente.consultarSaldoAplicativo();
 
         //já pensou os clientes ouvindo que o gás acabou ?
 //        cozinheiro.pedirParaTrocarGas(atendente);
