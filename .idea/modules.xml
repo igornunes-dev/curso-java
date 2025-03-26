@@ -12,6 +12,7 @@
       <module fileurl="file://$PROJECT_DIR$/enum/atividade1-composicao/application/application.iml" filepath="$PROJECT_DIR$/enum/atividade1-composicao/application/application.iml" />
       <module fileurl="file://$PROJECT_DIR$/abstract/application-abstract/application-abstract.iml" filepath="$PROJECT_DIR$/abstract/application-abstract/application-abstract.iml" />
       <module fileurl="file://$PROJECT_DIR$/heranca/application-heranca/application-heranca.iml" filepath="$PROJECT_DIR$/heranca/application-heranca/application-heranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/problem/application-inteface/application-inteface.iml" filepath="$PROJECT_DIR$/interface/problem/application-inteface/application-inteface.iml" />
       <module fileurl="file://$PROJECT_DIR$/polimorfismo/application-polimorfismo/application-polimorfismo.iml" filepath="$PROJECT_DIR$/polimorfismo/application-polimorfismo/application-polimorfismo.iml" />
       <module fileurl="file://$PROJECT_DIR$/polimorfismo/application-polimorfismo2/application-polimorfismo2.iml" filepath="$PROJECT_DIR$/polimorfismo/application-polimorfismo2/application-polimorfismo2.iml" />
       <module fileurl="file://$PROJECT_DIR$/enum/atividade2-composicao/application2/application2.iml" filepath="$PROJECT_DIR$/enum/atividade2-composicao/application2/application2.iml" />
@@ -48,23 +49,33 @@
       <module fileurl="file://$PROJECT_DIR$/controleFluxo/estruturaCondicionais.iml" filepath="$PROJECT_DIR$/controleFluxo/estruturaCondicionais.iml" />
       <module fileurl="file://$PROJECT_DIR$/estruturaExcepcionais/estruturaExcepcionais.iml" filepath="$PROJECT_DIR$/estruturaExcepcionais/estruturaExcepcionais.iml" />
       <module fileurl="file://$PROJECT_DIR$/estruturaRepeticoes/estruturaRepeticoes.iml" filepath="$PROJECT_DIR$/estruturaRepeticoes/estruturaRepeticoes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trabalhando-arquivos/exercicio/exercicio.iml" filepath="$PROJECT_DIR$/trabalhando-arquivos/exercicio/exercicio.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trabalhando-arquivos/fileReader-BufferedReader/fileReader-BufferedReader.iml" filepath="$PROJECT_DIR$/trabalhando-arquivos/fileReader-BufferedReader/fileReader-BufferedReader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trabalhando-arquivos/fileWrite-bufferedWrite/fileWrite-bufferedWrite.iml" filepath="$PROJECT_DIR$/trabalhando-arquivos/fileWrite-bufferedWrite/fileWrite-bufferedWrite.iml" />
       <module fileurl="file://$PROJECT_DIR$/getters-setters/getters-setters.iml" filepath="$PROJECT_DIR$/getters-setters/getters-setters.iml" />
       <module fileurl="file://$PROJECT_DIR$/heranca/heranca.iml" filepath="$PROJECT_DIR$/heranca/heranca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trabalhando-arquivos/informacoes-caminho-arquivo/informacoes-caminho-arquivo.iml" filepath="$PROJECT_DIR$/trabalhando-arquivos/informacoes-caminho-arquivo/informacoes-caminho-arquivo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/interface.iml" filepath="$PROJECT_DIR$/interface/interface.iml" />
       <module fileurl="file://$PROJECT_DIR$/java.iml" filepath="$PROJECT_DIR$/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trabalhando-arquivos/manipulando-pastas/manipulando-pastas.iml" filepath="$PROJECT_DIR$/trabalhando-arquivos/manipulando-pastas/manipulando-pastas.iml" />
       <module fileurl="file://$PROJECT_DIR$/metodos/metodos.iml" filepath="$PROJECT_DIR$/metodos/metodos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/problem/model.entities/model.entities.iml" filepath="$PROJECT_DIR$/interface/problem/model.entities/model.entities.iml" />
       <module fileurl="file://$PROJECT_DIR$/try-catch/exercicio1/model.entities-trycatch/model.entities-trycatch.iml" filepath="$PROJECT_DIR$/try-catch/exercicio1/model.entities-trycatch/model.entities-trycatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/try-catch/exercicio1/model.exceptions/model.exceptions.iml" filepath="$PROJECT_DIR$/try-catch/exercicio1/model.exceptions/model.exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/try-catch/model.exceptions2/model.exceptions2.iml" filepath="$PROJECT_DIR$/try-catch/model.exceptions2/model.exceptions2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/problem/model.services/model.services.iml" filepath="$PROJECT_DIR$/interface/problem/model.services/model.services.iml" />
       <module fileurl="file://$PROJECT_DIR$/operadores/operadores.iml" filepath="$PROJECT_DIR$/operadores/operadores.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO/pacotes-visibilidade.iml" filepath="$PROJECT_DIR$/POO/pacotes-visibilidade.iml" />
       <module fileurl="file://$PROJECT_DIR$/palavrasReservadas/palavrasReservadas.iml" filepath="$PROJECT_DIR$/palavrasReservadas/palavrasReservadas.iml" />
       <module fileurl="file://$PROJECT_DIR$/pilaresPOO/pilaresPOO.iml" filepath="$PROJECT_DIR$/pilaresPOO/pilaresPOO.iml" />
       <module fileurl="file://$PROJECT_DIR$/polimorfismo/polimorfismo.iml" filepath="$PROJECT_DIR$/polimorfismo/polimorfismo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/problem/problem.iml" filepath="$PROJECT_DIR$/interface/problem/problem.iml" />
       <module fileurl="file://$PROJECT_DIR$/List/program/program.iml" filepath="$PROJECT_DIR$/List/program/program.iml" />
       <module fileurl="file://$PROJECT_DIR$/try-catch/program-try/program-try.iml" filepath="$PROJECT_DIR$/try-catch/program-try/program-try.iml" />
       <module fileurl="file://$PROJECT_DIR$/try-catch/exercicio1/program-trycatch/program-trycatch.iml" filepath="$PROJECT_DIR$/try-catch/exercicio1/program-trycatch/program-trycatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/terminal/terminal.iml" filepath="$PROJECT_DIR$/terminal/terminal.iml" />
       <module fileurl="file://$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/trabalhando-arquivos/trabalhando-arquivos.iml" filepath="$PROJECT_DIR$/trabalhando-arquivos/trabalhando-arquivos.iml" />
       <module fileurl="file://$PROJECT_DIR$/try-catch/try-catch.iml" filepath="$PROJECT_DIR$/try-catch/try-catch.iml" />
     </modules>
   </component>
