@@ -26,12 +26,17 @@
       <module fileurl="file://$PROJECT_DIR$/construtores/construtores.iml" filepath="$PROJECT_DIR$/construtores/construtores.iml" />
       <module fileurl="file://$PROJECT_DIR$/controle-candidatos/controle-candidatos.iml" filepath="$PROJECT_DIR$/controle-candidatos/controle-candidatos.iml" />
       <module fileurl="file://$PROJECT_DIR$/debbuging/debbuging.iml" filepath="$PROJECT_DIR$/debbuging/debbuging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface-comparable/default-methods/default-methods.iml" filepath="$PROJECT_DIR$/interface-comparable/default-methods/default-methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafio-uml/desafio-uml.iml" filepath="$PROJECT_DIR$/desafio-uml/desafio-uml.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafios/desafios.iml" filepath="$PROJECT_DIR$/desafios/desafios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/problem4/devices/devices.iml" filepath="$PROJECT_DIR$/interface/problem4/devices/devices.iml" />
       <module fileurl="file://$PROJECT_DIR$/enum/entities/entities.iml" filepath="$PROJECT_DIR$/enum/entities/entities.iml" />
       <module fileurl="file://$PROJECT_DIR$/abstract/entities-abstract/entities-abstract.iml" filepath="$PROJECT_DIR$/abstract/entities-abstract/entities-abstract.iml" />
       <module fileurl="file://$PROJECT_DIR$/abstract/entities-abstract2/entities-abstract2.iml" filepath="$PROJECT_DIR$/abstract/entities-abstract2/entities-abstract2.iml" />
       <module fileurl="file://$PROJECT_DIR$/enum/atividade1-composicao/entities-composicao/entities-composicao.iml" filepath="$PROJECT_DIR$/enum/atividade1-composicao/entities-composicao/entities-composicao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface-comparable/default-methods/entities-default/entities-default.iml" filepath="$PROJECT_DIR$/interface-comparable/default-methods/entities-default/entities-default.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/problem2/entities-interface/entities-interface.iml" filepath="$PROJECT_DIR$/interface/problem2/entities-interface/entities-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface-comparable/entities-interface-comparable/entities-interface-comparable.iml" filepath="$PROJECT_DIR$/interface-comparable/entities-interface-comparable/entities-interface-comparable.iml" />
       <module fileurl="file://$PROJECT_DIR$/polimorfismo/entities-polimorfismo/entities-polimorfismo.iml" filepath="$PROJECT_DIR$/polimorfismo/entities-polimorfismo/entities-polimorfismo.iml" />
       <module fileurl="file://$PROJECT_DIR$/polimorfismo/entities-polimorfismo2/entities-polimorfismo2.iml" filepath="$PROJECT_DIR$/polimorfismo/entities-polimorfismo2/entities-polimorfismo2.iml" />
       <module fileurl="file://$PROJECT_DIR$/try-catch/entities-try/entities-try.iml" filepath="$PROJECT_DIR$/try-catch/entities-try/entities-try.iml" />
@@ -45,6 +50,7 @@
       <module fileurl="file://$PROJECT_DIR$/heranca/entitites-heranca/entitites-heranca.iml" filepath="$PROJECT_DIR$/heranca/entitites-heranca/entitites-heranca.iml" />
       <module fileurl="file://$PROJECT_DIR$/enum/enum-composicacao.iml" filepath="$PROJECT_DIR$/enum/enum-composicacao.iml" />
       <module fileurl="file://$PROJECT_DIR$/enums/enums.iml" filepath="$PROJECT_DIR$/enums/enums.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/problem3/enumss/enumss.iml" filepath="$PROJECT_DIR$/interface/problem3/enumss/enumss.iml" />
       <module fileurl="file://$PROJECT_DIR$/escopo/escopo.iml" filepath="$PROJECT_DIR$/escopo/escopo.iml" />
       <module fileurl="file://$PROJECT_DIR$/controleFluxo/estruturaCondicionais.iml" filepath="$PROJECT_DIR$/controleFluxo/estruturaCondicionais.iml" />
       <module fileurl="file://$PROJECT_DIR$/estruturaExcepcionais/estruturaExcepcionais.iml" filepath="$PROJECT_DIR$/estruturaExcepcionais/estruturaExcepcionais.iml" />
@@ -56,7 +62,9 @@
       <module fileurl="file://$PROJECT_DIR$/heranca/heranca.iml" filepath="$PROJECT_DIR$/heranca/heranca.iml" />
       <module fileurl="file://$PROJECT_DIR$/trabalhando-arquivos/informacoes-caminho-arquivo/informacoes-caminho-arquivo.iml" filepath="$PROJECT_DIR$/trabalhando-arquivos/informacoes-caminho-arquivo/informacoes-caminho-arquivo.iml" />
       <module fileurl="file://$PROJECT_DIR$/interface/interface.iml" filepath="$PROJECT_DIR$/interface/interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface-comparable/interface-comparable.iml" filepath="$PROJECT_DIR$/interface-comparable/interface-comparable.iml" />
       <module fileurl="file://$PROJECT_DIR$/java.iml" filepath="$PROJECT_DIR$/java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jogo/jogo.iml" filepath="$PROJECT_DIR$/jogo/jogo.iml" />
       <module fileurl="file://$PROJECT_DIR$/trabalhando-arquivos/manipulando-pastas/manipulando-pastas.iml" filepath="$PROJECT_DIR$/trabalhando-arquivos/manipulando-pastas/manipulando-pastas.iml" />
       <module fileurl="file://$PROJECT_DIR$/metodos/metodos.iml" filepath="$PROJECT_DIR$/metodos/metodos.iml" />
       <module fileurl="file://$PROJECT_DIR$/interface/problem/model.entities/model.entities.iml" filepath="$PROJECT_DIR$/interface/problem/model.entities/model.entities.iml" />
@@ -64,15 +72,20 @@
       <module fileurl="file://$PROJECT_DIR$/try-catch/exercicio1/model.exceptions/model.exceptions.iml" filepath="$PROJECT_DIR$/try-catch/exercicio1/model.exceptions/model.exceptions.iml" />
       <module fileurl="file://$PROJECT_DIR$/try-catch/model.exceptions2/model.exceptions2.iml" filepath="$PROJECT_DIR$/try-catch/model.exceptions2/model.exceptions2.iml" />
       <module fileurl="file://$PROJECT_DIR$/interface/problem/model.services/model.services.iml" filepath="$PROJECT_DIR$/interface/problem/model.services/model.services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/problem3/models.entities/models.entities.iml" filepath="$PROJECT_DIR$/interface/problem3/models.entities/models.entities.iml" />
       <module fileurl="file://$PROJECT_DIR$/operadores/operadores.iml" filepath="$PROJECT_DIR$/operadores/operadores.iml" />
       <module fileurl="file://$PROJECT_DIR$/POO/pacotes-visibilidade.iml" filepath="$PROJECT_DIR$/POO/pacotes-visibilidade.iml" />
       <module fileurl="file://$PROJECT_DIR$/palavrasReservadas/palavrasReservadas.iml" filepath="$PROJECT_DIR$/palavrasReservadas/palavrasReservadas.iml" />
       <module fileurl="file://$PROJECT_DIR$/pilaresPOO/pilaresPOO.iml" filepath="$PROJECT_DIR$/pilaresPOO/pilaresPOO.iml" />
       <module fileurl="file://$PROJECT_DIR$/polimorfismo/polimorfismo.iml" filepath="$PROJECT_DIR$/polimorfismo/polimorfismo.iml" />
       <module fileurl="file://$PROJECT_DIR$/interface/problem/problem.iml" filepath="$PROJECT_DIR$/interface/problem/problem.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/problem2/problem2.iml" filepath="$PROJECT_DIR$/interface/problem2/problem2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/problem3/problem3.iml" filepath="$PROJECT_DIR$/interface/problem3/problem3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/problem4/problem4.iml" filepath="$PROJECT_DIR$/interface/problem4/problem4.iml" />
       <module fileurl="file://$PROJECT_DIR$/List/program/program.iml" filepath="$PROJECT_DIR$/List/program/program.iml" />
       <module fileurl="file://$PROJECT_DIR$/try-catch/program-try/program-try.iml" filepath="$PROJECT_DIR$/try-catch/program-try/program-try.iml" />
       <module fileurl="file://$PROJECT_DIR$/try-catch/exercicio1/program-trycatch/program-trycatch.iml" filepath="$PROJECT_DIR$/try-catch/exercicio1/program-trycatch/program-trycatch.iml" />
+      <module fileurl="file://$PROJECT_DIR$/interface/problem2/services/services.iml" filepath="$PROJECT_DIR$/interface/problem2/services/services.iml" />
       <module fileurl="file://$PROJECT_DIR$/terminal/terminal.iml" filepath="$PROJECT_DIR$/terminal/terminal.iml" />
       <module fileurl="file://$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" />
       <module fileurl="file://$PROJECT_DIR$/trabalhando-arquivos/trabalhando-arquivos.iml" filepath="$PROJECT_DIR$/trabalhando-arquivos/trabalhando-arquivos.iml" />
