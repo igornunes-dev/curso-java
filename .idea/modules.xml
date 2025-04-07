@@ -6,7 +6,9 @@
       <module fileurl="file://$PROJECT_DIR$/Data-Hora/Data-Hora.iml" filepath="$PROJECT_DIR$/Data-Hora/Data-Hora.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafio-controle-fluxo/DesafioControleFluxo.iml" filepath="$PROJECT_DIR$/desafio-controle-fluxo/DesafioControleFluxo.iml" />
       <module fileurl="file://$PROJECT_DIR$/List/List.iml" filepath="$PROJECT_DIR$/List/List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Map/Map.iml" filepath="$PROJECT_DIR$/Map/Map.iml" />
       <module fileurl="file://$PROJECT_DIR$/Matrizes/Matrizes.iml" filepath="$PROJECT_DIR$/Matrizes/Matrizes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Set/Set.iml" filepath="$PROJECT_DIR$/Set/Set.iml" />
       <module fileurl="file://$PROJECT_DIR$/abstract/abstract.iml" filepath="$PROJECT_DIR$/abstract/abstract.iml" />
       <module fileurl="file://$PROJECT_DIR$/anatomia-classes/anatomia-classes.iml" filepath="$PROJECT_DIR$/anatomia-classes/anatomia-classes.iml" />
       <module fileurl="file://$PROJECT_DIR$/enum/atividade1-composicao/application/application.iml" filepath="$PROJECT_DIR$/enum/atividade1-composicao/application/application.iml" />
@@ -25,6 +27,8 @@
       <module fileurl="file://$PROJECT_DIR$/collections-java-api/collections-java-api.iml" filepath="$PROJECT_DIR$/collections-java-api/collections-java-api.iml" />
       <module fileurl="file://$PROJECT_DIR$/construtores/construtores.iml" filepath="$PROJECT_DIR$/construtores/construtores.iml" />
       <module fileurl="file://$PROJECT_DIR$/controle-candidatos/controle-candidatos.iml" filepath="$PROJECT_DIR$/controle-candidatos/controle-candidatos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/curinga/curinga.iml" filepath="$PROJECT_DIR$/generics/curinga/curinga.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/curinga-delimitados/curinga-delimitados.iml" filepath="$PROJECT_DIR$/generics/curinga-delimitados/curinga-delimitados.iml" />
       <module fileurl="file://$PROJECT_DIR$/debbuging/debbuging.iml" filepath="$PROJECT_DIR$/debbuging/debbuging.iml" />
       <module fileurl="file://$PROJECT_DIR$/interface-comparable/default-methods/default-methods.iml" filepath="$PROJECT_DIR$/interface-comparable/default-methods/default-methods.iml" />
       <module fileurl="file://$PROJECT_DIR$/desafio-uml/desafio-uml.iml" filepath="$PROJECT_DIR$/desafio-uml/desafio-uml.iml" />
@@ -58,7 +62,12 @@
       <module fileurl="file://$PROJECT_DIR$/trabalhando-arquivos/exercicio/exercicio.iml" filepath="$PROJECT_DIR$/trabalhando-arquivos/exercicio/exercicio.iml" />
       <module fileurl="file://$PROJECT_DIR$/trabalhando-arquivos/fileReader-BufferedReader/fileReader-BufferedReader.iml" filepath="$PROJECT_DIR$/trabalhando-arquivos/fileReader-BufferedReader/fileReader-BufferedReader.iml" />
       <module fileurl="file://$PROJECT_DIR$/trabalhando-arquivos/fileWrite-bufferedWrite/fileWrite-bufferedWrite.iml" filepath="$PROJECT_DIR$/trabalhando-arquivos/fileWrite-bufferedWrite/fileWrite-bufferedWrite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/generics.iml" filepath="$PROJECT_DIR$/generics/generics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/generics-basico/generics-basico.iml" filepath="$PROJECT_DIR$/generics/generics-basico/generics-basico.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/generics-delimitados/generics-delimitados.iml" filepath="$PROJECT_DIR$/generics/generics-delimitados/generics-delimitados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/get-put/get-put.iml" filepath="$PROJECT_DIR$/generics/get-put/get-put.iml" />
       <module fileurl="file://$PROJECT_DIR$/getters-setters/getters-setters.iml" filepath="$PROJECT_DIR$/getters-setters/getters-setters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/hashCode-Equals/hashCode-Equals.iml" filepath="$PROJECT_DIR$/generics/hashCode-Equals/hashCode-Equals.iml" />
       <module fileurl="file://$PROJECT_DIR$/heranca/heranca.iml" filepath="$PROJECT_DIR$/heranca/heranca.iml" />
       <module fileurl="file://$PROJECT_DIR$/trabalhando-arquivos/informacoes-caminho-arquivo/informacoes-caminho-arquivo.iml" filepath="$PROJECT_DIR$/trabalhando-arquivos/informacoes-caminho-arquivo/informacoes-caminho-arquivo.iml" />
       <module fileurl="file://$PROJECT_DIR$/interface/interface.iml" filepath="$PROJECT_DIR$/interface/interface.iml" />
@@ -86,6 +95,7 @@
       <module fileurl="file://$PROJECT_DIR$/try-catch/program-try/program-try.iml" filepath="$PROJECT_DIR$/try-catch/program-try/program-try.iml" />
       <module fileurl="file://$PROJECT_DIR$/try-catch/exercicio1/program-trycatch/program-trycatch.iml" filepath="$PROJECT_DIR$/try-catch/exercicio1/program-trycatch/program-trycatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/interface/problem2/services/services.iml" filepath="$PROJECT_DIR$/interface/problem2/services/services.iml" />
+      <module fileurl="file://$PROJECT_DIR$/generics/generics-basico/services-generics/services-generics.iml" filepath="$PROJECT_DIR$/generics/generics-basico/services-generics/services-generics.iml" />
       <module fileurl="file://$PROJECT_DIR$/terminal/terminal.iml" filepath="$PROJECT_DIR$/terminal/terminal.iml" />
       <module fileurl="file://$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" filepath="$PROJECT_DIR$/tipos-variaveis/tipos-variaveis.iml" />
       <module fileurl="file://$PROJECT_DIR$/trabalhando-arquivos/trabalhando-arquivos.iml" filepath="$PROJECT_DIR$/trabalhando-arquivos/trabalhando-arquivos.iml" />
